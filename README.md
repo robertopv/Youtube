@@ -2,7 +2,7 @@
 
 ## Utilização
 
-Abra [shrekSendScript.js](https://github.com/robertopv/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+Abra [Youtube Otario.js](https://github.com/robertopv/Youtube/blob/main/Script_youtube.txt)
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
